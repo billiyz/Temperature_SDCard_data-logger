@@ -1,2 +1,2 @@
 # Temperature_SDCard_data-logger
-this program logs temperature data to the sd card.
+this program logs temperature data to the sd card.in case the data bein g dent to the cloud,is intercepted or a network failure takes place,the sd card is able to save the data safely,in interval specified by baund rate and this can be buffered and sent to the clouds whwnwver the network is strong.this is a challege but one can use LORAWAN transmitter and receivers.
